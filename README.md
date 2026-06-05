@@ -83,9 +83,8 @@ Best performance:
 - Rice: 65.91% (due to dataset imbalance)
 
 
-## Authors
-Fateme Khosravi
-
+## 👩‍💻 Author
+Fateme Khosravi Computer Science Graduate | Interested in Data Science, Algorithms, and Systems Analysis
 
 ## Note
 Dataset files are not included due to Kaggle licensing. Only code and trained models are provided.
