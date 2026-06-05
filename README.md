@@ -29,30 +29,6 @@ The datasets were cleaned, merged, and reorganized into a unified structure.
 | Wheat  | MobileNetV2 | 96.58%   |
 
 
-## Project Structure
-plant-disease-detection/
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_corn.py
-│   ├── model_tomato.py
-│   ├── model_rice.py
-│   ├── model_wheat.py
-│   ├── inference.py
-├── models/
-│   ├── corn_model.h5
-│   ├── tomato_model.h5
-│   ├── rice_model.h5
-│   ├── wheat_model.h5
-├── notebooks/
-│   ├── corn_model.ipynb
-│   ├── tomato_model.ipynb
-│   ├── rice_model.ipynb
-│   ├── wheat_model.ipynb
-├── requirements.txt
-├── main.py
-└── README.md
-
-
 ## Workflow
 
 1. Data Preprocessing
